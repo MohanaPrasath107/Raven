@@ -8,8 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertNotEquals;
 import org.junit.*;
 
 public class Assert1 {
-	String a = "Mohan";
-	String b = "Mohan";
+	String a = "Mohn";
+	String b = "Mohn";
 	String c = "Kiruba";
 	String d = null;
 	boolean is = 10>5;
